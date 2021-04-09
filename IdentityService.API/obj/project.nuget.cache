@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eXtqLjYOh9wVD/Rw91y0ZprXpeNMZ09EG4azIcxtmGg7Qso+odj9SDGLQytCpmszP3FPoxXj1czS0dv5XfjEFQ==",
+  "dgSpecHash": "IjvPvN3J6dXY06/n1gzw/unFekXosmiwZSMnaMu/bN2Tuj7nkYj6089WqLRJTB6fB9vHx/LyIpPfOWNk9cInIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\muhsi\\OneDrive\\Masaüstü\\Desktop\\Projects\\MuhsinsProjects\\Creations\\DotnetCore\\MPSN\\services\\IdentityService\\IdentityService.API\\IdentityService.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\muhsi\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\muhsi\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\muhsi\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\muhsi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\muhsi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

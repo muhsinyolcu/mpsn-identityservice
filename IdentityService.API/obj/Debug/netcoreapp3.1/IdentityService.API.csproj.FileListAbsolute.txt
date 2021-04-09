@@ -127,3 +127,7 @@ C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\Do
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\obj\Debug\netcoreapp3.1\IdentityService.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\bin\Debug\netcoreapp3.1\IdentityService.Data.pdb
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\bin\Debug\netcoreapp3.1\IdentityService.Business.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityService.API.styles.css
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.API\bin\Debug\netcoreapp3.1\Autofac.dll
