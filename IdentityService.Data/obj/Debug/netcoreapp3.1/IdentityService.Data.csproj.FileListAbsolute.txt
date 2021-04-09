@@ -1,5 +1,8 @@
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\bin\Debug\netcoreapp3.1\IdentityService.Data.deps.json
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\bin\Debug\netcoreapp3.1\IdentityService.Data.dll
-C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.csprojAssemblyReference.cache
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.AssemblyInfoInputs.cache
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.AssemblyInfo.cs
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\bin\Debug\netcoreapp3.1\IdentityService.Data.pdb
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\MPSN\services\IdentityService\IdentityService.Data\obj\Debug\netcoreapp3.1\IdentityService.Data.pdb

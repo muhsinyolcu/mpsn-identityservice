@@ -1,4 +1,4 @@
-﻿using IdentityService.Data.Context.SqlServer.CodeFirst;
+﻿using IdentityService.Data.Context;
 using IdentityService.Data.Entity;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,8 +11,8 @@ namespace IdentityService.Data.GenericRepository
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     {
-        protected IdentityDataContext _context;
-        public GenericRepository(IdentityDataContext context)
+        protected DataContext _context;
+        public GenericRepository(DataContext context)
         {
             _context = context;
         }

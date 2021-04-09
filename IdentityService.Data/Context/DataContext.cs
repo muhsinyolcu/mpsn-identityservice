@@ -1,13 +1,13 @@
 ﻿using IdentityService.Data.Entity;
 using Microsoft.EntityFrameworkCore;
 
-namespace IdentityService.Data.Context.SqlServer.CodeFirst
+namespace IdentityService.Data.Context
 {
-    public class IdentityDataContext : DbContext
+    public class DataContext : DbContext, IDataContext
     {
         //TODO
         protected readonly string connectionString = "";
-        public IdentityDataContext(DbContextOptions<IdentityDataContext> options)
+        public DataContext(DbContextOptions<DataContext> options)
             : base(options)
         {
 

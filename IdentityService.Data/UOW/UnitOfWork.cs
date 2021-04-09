@@ -8,8 +8,8 @@ namespace IdentityService.Data.UOW
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly IdentityDataContext context;
-        public UnitOfWork(IdentityDataContext dbContext)
+        private readonly DataContext context;
+        public UnitOfWork(DataContext dbContext)
         {
             context = dbContext;
         }
